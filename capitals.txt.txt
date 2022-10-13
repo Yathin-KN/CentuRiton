@@ -1,0 +1,1 @@
+[{Australia:Canberra},{Bangladesh:Dhaka},{Bhutan:Thimphu},{Egypt:Cairo},{India:New Delhi},{Indonesia:Jakarta},{Japan:Tokyo},{Nepal:Kathmandu},{Pakistan:Islamabad},{Sri Lanka:Kotte},{Thailand:Bangkok},{China:Beijing}]
